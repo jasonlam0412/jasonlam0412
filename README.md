@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I am Jason from CUHK
+### I’m looking to collaborate on blockchain, data analysis or cyber security project
 <!--
 **jasonlam0412/jasonlam0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
